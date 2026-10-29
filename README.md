@@ -38,6 +38,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8E44AD?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-F59E0B?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-5B5BD6?style=for-the-badge)
 
 ### 🚀 Backend & Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
