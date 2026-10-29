@@ -11,7 +11,7 @@
 - 🎓learning and Building in **AI / Machine Learning**
 - 🔍 Working on **RAG systems, LLM agents, NLP and Computer Vision**
 - 🌱 Currently improving my skills by building end-to-end projects
-- 📫 Reach me at: **25decoo9@nith.ac.in**
+- 📫 Reach me at: **25dec009@nith.ac.in**
 
 ---
 
