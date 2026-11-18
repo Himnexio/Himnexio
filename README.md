@@ -51,11 +51,3 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himnexio&show_icons=true&theme=tokyonight&hide_border=true" alt="Himnexio GitHub stats" />
-</p>
-
----
